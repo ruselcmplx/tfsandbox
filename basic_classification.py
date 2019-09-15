@@ -98,7 +98,7 @@ def plot_value_array(i, predictions_array, true_label):
     thisplot[true_label].set_color('blue')
 
 
-# Взгялнем кого угадали
+# Взглянем кого угадали
 num_rows = 10
 num_cols = 3
 num_images = num_rows*num_cols
